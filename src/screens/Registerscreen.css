@@ -1,0 +1,22 @@
+.bs {
+  /* background-color: #556b2f; */
+  color: #556b2f;
+}
+
+.btnw {
+  background-color: white;
+  color: #556b2f;
+  padding: 5px;
+  margin-left: 160px;
+}
+
+.form-control {
+  background-color: white;
+  border-color: #556b2f;
+  border-radius: 30px;
+}
+
+.col {
+  color: #556b2f;
+  background-color: #556b2f;
+}
